@@ -4,5 +4,4 @@
 
 - ดาวน์โหลดโปรแกรมจาก [GitHub Releases](https://github.com/Masxiiv/bdo-assistant-updates/releases)
 - `update.json` ใช้โดยระบบตรวจสอบอัปเดตภายในโปรแกรม
-- Source code จัดเก็บแยกใน Private repository
 
