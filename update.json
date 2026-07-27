@@ -1,0 +1,6 @@
+{
+  "version": "1.4.0",
+  "download_url": "https://github.com/Masxiiv/bdo-assistant-updates/releases/download/v1.4.0/BDO-Assistant-Setup-v1.4.0.exe",
+  "sha256": "09C273F165ADA4B4E2498CEAF016B7117BAD81ED61B0895CA08F39C6C11B1F26",
+  "notes": "เพิ่มระบบตรวจสอบอัปเดตอัตโนมัติ ดาวน์โหลด Setup พร้อมแสดงความคืบหน้า และตรวจ SHA-256 ก่อนติดตั้ง"
+}
