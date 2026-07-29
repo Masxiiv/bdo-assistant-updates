@@ -1,6 +1,6 @@
 {
-  "version": "1.4.1",
-  "download_url": "https://github.com/Masxiiv/bdo-assistant-updates/releases/download/v1.4.1/BDO-Assistant-Setup-v1.4.1.exe",
-  "sha256": "DF1670FEC142CC96F2274CFBF60E809A0419FA019DB3882D23A99172656FBC2D",
-  "notes": "ระบบเทรดเรือสามารถใช้เสียงแจ้งเตือนอย่างเดียวได้แล้ว โดยไม่บังคับเปิด Discord หรือ Telegram"
+  "version": "1.4.2",
+  "download_url": "https://github.com/Masxiiv/bdo-assistant-updates/releases/download/v1.4.2/BDO-Assistant-Setup-v1.4.2.exe",
+  "sha256": "932D6341A0AE32579EDBE5B4A0653FA9EF12DDC98BC6C5E1E062F209B4A11628",
+  "notes": "เพิ่ม Progress bar เมื่อเปิด EXE โดยตรง และนำระบบนับขยะทดลองออก"
 }
