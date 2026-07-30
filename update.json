@@ -1,6 +1,6 @@
 {
-  "version": "1.4.2",
-  "download_url": "https://github.com/Masxiiv/bdo-assistant-updates/releases/download/v1.4.2/BDO-Assistant-Setup-v1.4.2.exe",
-  "sha256": "932D6341A0AE32579EDBE5B4A0653FA9EF12DDC98BC6C5E1E062F209B4A11628",
-  "notes": "เพิ่ม Progress bar เมื่อเปิด EXE โดยตรง และนำระบบนับขยะทดลองออก"
+  "version": "1.4.3",
+  "download_url": "https://github.com/Masxiiv/bdo-assistant-updates/releases/download/v1.4.3/BDO-Assistant-Setup-v1.4.3.exe",
+  "sha256": "8A3BBED3348B5ADF6C81F9F3E62FACE49D6985344CDB615318A63EAFFEB0A0C8",
+  "notes": "แก้ไอคอนโปรแกรม เพิ่ม Background OCR Loading ปรับโครงสร้าง OOP และลดขนาดโปรแกรม"
 }
