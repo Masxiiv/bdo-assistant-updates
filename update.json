@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
-  "download_url": "https://github.com/Masxiiv/bdo-assistant-updates/releases/download/v1.5.0/BDO-Assistant-Setup-v1.5.0.exe",
-  "sha256": "E1BFF74053FD3A238CC07CCD8985FC2B42C6EE25911E1B770E654786DB4F8D12",
-  "notes": "เพิ่ม Grind Tracking จาก Item Drop Log, จุดฟาร์มและราคาปรับแต่ง, รองรับภาษาไทย/อังกฤษและหลายจอ, Digit Atlas สำหรับอ่านจำนวน และปรับความเสถียรการแจ้งเตือนเทรดเรือ"
+  "version": "1.6.0",
+  "download_url": "https://github.com/Masxiiv/bdo-assistant-updates/releases/download/v1.6.0/BDO-Assistant-Setup-v1.6.0.exe",
+  "sha256": "E55A2B9B7CFF6EFE81B90471CEE70C54276DACADC1776C03E84516A09B8BCE4D",
+  "notes": "ปรับโปรแกรมให้เหลือเฉพาะระบบแจ้งเตือนเทรดเรือและตัวอัปเดต เพิ่ม Toggle จับเวลาอัตโนมัติเมื่อออกจากเกาะอิลียาและหยุดเมื่อกลับถึงเกาะ"
 }
