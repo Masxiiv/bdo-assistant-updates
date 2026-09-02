@@ -1,6 +1,6 @@
 {
-  "version": "1.6.0",
-  "download_url": "https://github.com/Masxiiv/bdo-assistant-updates/releases/download/v1.6.0/BDO-Assistant-Setup-v1.6.0.exe",
-  "sha256": "E55A2B9B7CFF6EFE81B90471CEE70C54276DACADC1776C03E84516A09B8BCE4D",
-  "notes": "ปรับโปรแกรมให้เหลือเฉพาะระบบแจ้งเตือนเทรดเรือและตัวอัปเดต เพิ่ม Toggle จับเวลาอัตโนมัติเมื่อออกจากเกาะอิลียาและหยุดเมื่อกลับถึงเกาะ"
+  "version": "1.6.1",
+  "download_url": "https://github.com/Masxiiv/bdo-assistant-updates/releases/download/v1.6.1/BDO-Assistant-Setup-v1.6.1.exe",
+  "sha256": "0D79E13F7E58910A890CA028624F44E1E19F21FFB0B7EE7677FA2C44D0EFBD8D",
+  "notes": "Toggle จับเวลาทำงานต่อเนื่องทุกเที่ยว เพิ่มปุ่มเริ่มจับเอง และหยุดเมื่อยืนยันทั้งเกาะอิลียากับข้อความทอดสมอ"
 }
