@@ -1,6 +1,6 @@
 {
-  "version": "1.6.1",
-  "download_url": "https://github.com/Masxiiv/bdo-assistant-updates/releases/download/v1.6.1/BDO-Assistant-Setup-v1.6.1.exe",
-  "sha256": "0D79E13F7E58910A890CA028624F44E1E19F21FFB0B7EE7677FA2C44D0EFBD8D",
-  "notes": "Toggle จับเวลาทำงานต่อเนื่องทุกเที่ยว เพิ่มปุ่มเริ่มจับเอง และหยุดเมื่อยืนยันทั้งเกาะอิลียากับข้อความทอดสมอ"
+  "version": "1.7.0",
+  "download_url": "https://github.com/Masxiiv/bdo-assistant-updates/releases/download/v1.7.0/BDO-Assistant-Setup-v1.7.0.exe",
+  "sha256": "AE9FF1203086029A3374B32DA23B847DB6966D2A0B6AB4AF66679BE2310B1C91",
+  "notes": "เพิ่มประวัติเที่ยวเรือรายวันและลบแถวได้, Pop-up กลางจอเมื่อถึงทุกสถานที่, ปุ่มยืนยันเกาะอิลียา และตรวจ Mini Map ก่อนเริ่มจับเวลา"
 }
